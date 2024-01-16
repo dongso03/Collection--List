@@ -26,3 +26,5 @@ tip:키는 단순한 형태이면 밸류를 찾기 어렵다
 
 8.map.remove(1); >> 키값으로 삭제가능.
 
+9. linkedHasmap , treemapp 사용가능
+
